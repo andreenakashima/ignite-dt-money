@@ -6,7 +6,7 @@ export const TransactionsContainer = styled.main`
   margin: 4rem auto 0;
   padding: 1.5rem;
 `
-export const TransacionsTable = styled.table`
+export const TransactionsTable = styled.table`
   width: 100%;
   border-collapse: separate;
   border-spacing: 0 0.5rem;
